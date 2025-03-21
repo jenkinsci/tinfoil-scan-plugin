@@ -1,6 +1,10 @@
 # Tinfoil Security Jenkins Plugin
 This Jenkins plugin allows you to run web security tests from the cloud using Tinfoil Security.
 
+## End-Of-Life
+
+This plugin was deprecated in March 2025.
+
 ## Development
 
 1. Install the latest and greatest JDK from Oracle. http://www.oracle.com/technetwork/java/javase/downloads/index.html
